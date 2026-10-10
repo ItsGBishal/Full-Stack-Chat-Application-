@@ -77,12 +77,6 @@ App runs at `http://localhost:5173` with the backend at `http://localhost:3000`.
 
 ---
 
-## 📚 Technical Interview & Architecture Notes
-
-Detailed architecture flowcharts, database design, and 25+ technical interview questions covering this project can be found in **[LEARN.MD](./LEARN.MD)**.
-
----
-
 ## 👤 Author
 
 - **GitHub:** [@ItsGbishal](https://github.com/ItsGbishal)
