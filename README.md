@@ -18,7 +18,7 @@
 
 ## ✨ Features
 
-- ⚡ **Real-Time Messaging:** Sub-100ms 1-to-1 chat via persistent Socket.io connections.
+- ⚡ **Real-Time Messaging:** 1-to-1 chat via persistent Socket.io connections.
 - 🟢 **Online Presence:** Real-time online/offline status tracking across sessions.
 - 🔐 **JWT Auth in HTTP-Only Cookies:** Secure token storage protecting against XSS and CSRF.
 - 🚀 **Optimistic UI:** Instant message rendering before server confirmation.
