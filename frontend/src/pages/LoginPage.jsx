@@ -15,7 +15,7 @@ function LoginPage() {
 
   return (
     <div className="w-full flex items-center justify-center p-4 bg-slate-900">
-      <div className="relative w-full max-w-6xl md:h-[800px] h-[650px]">
+      <div className="relative w-full max-w-6xl md:h-[min(800px,calc(100vh-2rem))] h-[min(650px,calc(100vh-2rem))]">
         <BorderAnimatedContainer>
           <div className="w-full flex flex-col md:flex-row">
             {/* FORM CLOUMN - LEFT SIDE */}
