@@ -16,12 +16,6 @@
 
 ---
 
-## 📸 Preview
-
-![Chat Preview](./frontend/public/screenshot-for-readme.png)
-
----
-
 ## ✨ Features
 
 - ⚡ **Real-Time Messaging:** Sub-100ms 1-to-1 chat via persistent Socket.io connections.
